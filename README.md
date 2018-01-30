@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## What is NYUSHer
 
-You can use the [editor on GitHub](https://github.com/NYUSHer/nyusher.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A HTML5 based cross-platform app which gathers every students / professors / stuff of one school into a centralized platform through .edu emails. NYU people repeat similar task everyday across multiple platforms such as weather app, wechat, facebook, calendar, OrgSync, and etc. We brings these scattered platform into one centralized app, including functionalities such as chatting, momenting, todo-dashboard, and calendar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Detailed infomation
 
-### Markdown
+Students can create sub-forms in categories and chat freely. Every message is kept for new come-ins, so students are exposed to every information in the campus. Also, the app supports multiple forms of message. Users can send not only bare text messages, but also voice, pictures, videos, stickers, voting poll, docs, .etc, publicly or privately, parallely getting statistics about how many people have read and how popular your messages are.
+	Furthermore, users can decorate their own dashboard to get information instantly. They can put bus schedule, room vacancy, todo list onto the dashboard to make the day arranged.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Motivation
 
-```markdown
-Syntax highlighted code block
+It has alway been frustrating for me to switch between many website everyday to complete daily school tasks. I have observed and asked some of my friends and they are also experiencing the same problem, so this is a school-wide pain point. Also, our school does not have an online platform where everyone can post information. A campus craigslist-like website can help students spread their words faster.
 
-# Header 1
-## Header 2
-### Header 3
+## Comparison
 
-- Bulleted
-- List
+Some of our app’s core functions may have an overlap with other apps that are dedicated to them. For example, chatting vs WeChat & Facebook; forum vs WeChat Moments & Facebook group posts; classroom assistance vs NYU Classes; personal information vs Albert. But as each of them is dedicated to certain functions, by combining them and focusing on life at NYU Shanghai, our app can organically co-exist with those apps and further help improve user experience at NYU Shanghai.
 
-1. Numbered
-2. List
+## Programming Languages
 
-**Bold** and _Italic_ and `Code` text
+- Front-end: HTML, CSS, JS
+- Back-end: Python (Flask Library)
+- Database: MySQL
+- API: OrgSync, Google Calendar, Cryptowat.ch
+- iOS Adaptation: Swift + HTML
+- Android Adaptation: Kotlin (or Java) + HTML
+- Internet Transmission Protocol: TCP with SSL Encrypted
 
-[Link](url) and ![Image](src)
-```
+## Meeting Schedule
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tuesdays: 18:30 - 22:30 (4hrs)
+Thursday: 16:00 - 18:00 (2hrs)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NYUSHer/nyusher.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Team
+Jack, Jerry, Masaki, Max
