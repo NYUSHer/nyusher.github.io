@@ -3,7 +3,7 @@
 ![Swift Planner](https://img.shields.io/badge/iOS-Built-40aa00.svg?style=flat-square)
 ![Swift Planner](https://img.shields.io/badge/Android-Built-40aa00.svg?style=flat-square)
 ![NYUAPI](https://img.shields.io/badge/With-NYU%20API-ff6400.svg?style=flat-square)
-![Code](https://img.shields.io/badge/Code%20With-<3-ff0000.svg?style=flat-square)
+![Code](https://img.shields.io/badge/Code%20With-❤-ff0000.svg?style=flat-square)
 
 ## What is NYUSHer
 
