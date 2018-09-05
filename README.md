@@ -74,3 +74,12 @@ Thursday: 16:00 - 18:00 (2hrs)
 
 ## Team
 Jack, Jerry, Masaki, Max
+
+![Login](https://s15.postimg.cc/riuy5s86j/Screen_Shot_2018-09-05_at_8.33.41_AM.png "login")
+![Forum](https://s15.postimg.cc/r63jzm5cb/Screen_Shot_2018-09-05_at_8.33.48_AM.png "Forum")
+![Widget](https://s15.postimg.cc/jdcw7mrnf/Screen_Shot_2018-09-05_at_8.33.53_AM.png "Widget")
+![Widget2](https://s15.postimg.cc/gj9qu74wr/Screen_Shot_2018-09-05_at_8.33.59_AM.png "Widget2")
+![Swift Planner](https://s15.postimg.cc/x718wpmtn/Screen_Shot_2018-09-05_at_8.34.04_AM.png "Swift Planner")
+![Shuttle](https://s15.postimg.cc/697buymqz/Screen_Shot_2018-09-05_at_8.34.09_AM.png "Shuttle")
+![Original SP](https://s15.postimg.cc/3rvknpakb/Screen_Shot_2018-09-05_at_8.34.16_AM.png "Original SP")
+
